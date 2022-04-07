@@ -20,7 +20,6 @@
   <div align=center>
      <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </div><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turfguy&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <br> <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turfguy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
