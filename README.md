@@ -18,3 +18,6 @@
 
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm0811)](https://solved.ac/ksm0811)
+
+<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508turfguy&count_bg=%23000000&title_bg=%231FD825&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
