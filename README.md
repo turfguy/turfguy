@@ -2,6 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=turfguy&fontSize=100)
 
 
+   <div align=center>
+      안녕하세요. 열심히 살아가는 사람입니다.
+   </div>
+   
+
    <div align=center><h1>:wrench: STUDYING</h1></div>
   <div align=center>
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
