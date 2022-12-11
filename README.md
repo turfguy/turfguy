@@ -8,7 +8,7 @@
    </div>
    
 
-  
+  <div align="center">
  <h3 align="center">😎 Like stacks.. 😎</h3>
 <br>
 <p align="center">
@@ -29,11 +29,12 @@
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp
   <br>
 </p>     
-  <h3 align="center">♻️ Collaborations..♻️</h3>
+  <h3 align="center">✨ Cowork tools ✨</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
    <br>
 </p>  
   <br><br><br><br><br><br>
@@ -49,3 +50,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508turfguy&count_bg=%23000000&title_bg=%231FD825&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
