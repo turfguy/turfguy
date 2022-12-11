@@ -3,8 +3,9 @@
 
 
    <div align=center>
-      학부생 프론트엔드 개발자입니다.
-      여러가지 경험을 해보고 싶습니다!
+   <h1 align="center">
+      Status Code: 🟢 200 
+   </h1>
    </div>
    
 
@@ -29,7 +30,7 @@
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp
   <br>
 </p>     
-  <h3 align="center">✨ Cowork tools ✨</h3>
+  <h3 align="center">✨ Cowork tools.. ✨</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp
