@@ -4,7 +4,7 @@
 
    <div align=center>
    <h1 align="center">
-      Status Code: 🟢 200 
+      Status Code: &nbsp🟢 200 
    </h1>
    </div>
    
