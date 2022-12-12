@@ -35,8 +35,8 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /></a>&nbsp
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" </a>&nbsp
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" /></a>&nbsp
-   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"></a>&nbsp
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" /></a>&nbsp  
+   # <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"></a>&nbsp
    
    <br>
 </p>  
