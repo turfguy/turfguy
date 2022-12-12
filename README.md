@@ -33,12 +33,9 @@
   <h3 align="center">✨ Cowork tools.. ✨</h3>
 <br>
 <p align="center">
-   [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white
-[GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
-[Visual Studio Code]: https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white
-[Notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white
-[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white
-   ![Git] ![GitHub] ![Visual Studio Code] ![Notion] ![Slack] 
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /></a>&nbsp
+   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" </a>&nbsp
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" /></a>&nbsp
    <br>
 </p>  
   <br><br><br><br><br><br>
