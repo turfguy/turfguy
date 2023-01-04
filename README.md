@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SeungminfontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seungmin&fontSize=100)
 
 
    <div align=center>
